@@ -1,0 +1,1 @@
+# django-google-stackdriver-nested-logging
